@@ -33,8 +33,8 @@ This project is intended for labs, CTFs, internal audits, and authorized passwor
 ## Installation
 
 ```bash
-git clone https://github.com/NeiveZ/HSHX.git
-cd HSHX
+git clone https://github.com/NeiveZ/Hash-Helper-Toolkit.git
+cd Hash-Helper-Toolkit
 chmod +x hshx.sh
 ./hshx.sh --install
 ```
