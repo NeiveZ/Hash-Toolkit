@@ -1,6 +1,6 @@
 # HSHX
 
-> Hash Helper Toolkit — hash identification, verification, and controlled cracking workflow support.
+> Hash Toolkit — hash identification, verification, and controlled cracking workflow support.
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Category](https://img.shields.io/badge/Category-Hash%20Analysis-9333ea?style=flat-square)
